@@ -4,7 +4,7 @@ Ringkasan Proyek
 Proyek ini menyajikan rangkuman terstruktur materi Machine Learning yang mencakup konsep dasar hingga metode lanjutan. Materi disusun untuk membantu mahasiswa memahami alur kerja machine learning secara sistematis, baik dari sisi teori maupun implementasi praktis, termasuk regresi, klasifikasi, clustering, serta evaluasi model.
 
 👥 Anggota Kelompok (Kelompok 18)  
-Program Studi Sistem Informasi - STMIK Tazki
+Program Studi Sistem Informasi - STMIK Tazkia
 
 Rackisha Dhia Ezelly Lathief (241572010011)  
 Rizka Sugiarto (241572010013)  
