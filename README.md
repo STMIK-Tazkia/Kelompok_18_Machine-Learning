@@ -1,3 +1,5 @@
+link vidio ( https://drive.google.com/file/d/1vhBziAf7EFZ1JmajW1X3GS-SlMzMBk_d/view?usp=drivesdk ) 
+
 |Rangkuman Materi Machine Learning – Kelompok 18
 
 Ringkasan Proyek  
